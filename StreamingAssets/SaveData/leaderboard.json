@@ -1,0 +1,99 @@
+{
+    "players": [
+        {
+            "playerID": 1,
+            "playerName": "Teste3",
+            "playerScore": 0
+        },
+        {
+            "playerID": 2,
+            "playerName": "teste4",
+            "playerScore": 0
+        },
+        {
+            "playerID": 3,
+            "playerName": "teste 5",
+            "playerScore": 0
+        },
+        {
+            "playerID": 4,
+            "playerName": "ABCD",
+            "playerScore": 0
+        },
+        {
+            "playerID": 5,
+            "playerName": "ABCD",
+            "playerScore": 0
+        },
+        {
+            "playerID": 6,
+            "playerName": "TESTE10",
+            "playerScore": 0
+        },
+        {
+            "playerID": 7,
+            "playerName": "asdfgh",
+            "playerScore": 0
+        },
+        {
+            "playerID": 8,
+            "playerName": "asfdghh1",
+            "playerScore": 0
+        },
+        {
+            "playerID": 9,
+            "playerName": "AGORA",
+            "playerScore": 800
+        },
+        {
+            "playerID": 10,
+            "playerName": "Vasco",
+            "playerScore": 500
+        },
+        {
+            "playerID": 11,
+            "playerName": "Flamengo",
+            "playerScore": 600
+        },
+        {
+            "playerID": 12,
+            "playerName": "Primeiro",
+            "playerScore": 1200
+        },
+        {
+            "playerID": 13,
+            "playerName": "Terceiro",
+            "playerScore": 700
+        },
+        {
+            "playerID": 14,
+            "playerName": "Qualquer um",
+            "playerScore": 0
+        },
+        {
+            "playerID": 15,
+            "playerName": "Opaa",
+            "playerScore": 0
+        },
+        {
+            "playerID": 16,
+            "playerName": "Teste3000",
+            "playerScore": 0
+        },
+        {
+            "playerID": 17,
+            "playerName": "AXZT",
+            "playerScore": 0
+        },
+        {
+            "playerID": 18,
+            "playerName": "TEST1111",
+            "playerScore": 100
+        },
+        {
+            "playerID": 19,
+            "playerName": "ALoALO",
+            "playerScore": 0
+        }
+    ]
+}
