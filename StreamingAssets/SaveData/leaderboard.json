@@ -3,47 +3,17 @@
         {
             "playerID": 1,
             "playerName": "Primeiro",
-            "playerScore": 6000
+            "playerScore": 100
         },
         {
             "playerID": 2,
             "playerName": "Segundo",
-            "playerScore": 3000
+            "playerScore": 50
         },
         {
             "playerID": 3,
             "playerName": "Terceiro",
-            "playerScore": 900
-        },
-        {
-            "playerID": 4,
-            "playerName": "ALAN",
-            "playerScore": -750
-        },
-        {
-            "playerID": 5,
-            "playerName": "iygbhjbbkl",
-            "playerScore": 4900
-        },
-        {
-            "playerID": 6,
-            "playerName": "56+2",
-            "playerScore": 3600
-        },
-        {
-            "playerID": 7,
-            "playerName": "DIFICIL",
-            "playerScore": 0
-        },
-        {
-            "playerID": 8,
-            "playerName": "asdasdad",
-            "playerScore": 0
-        },
-        {
-            "playerID": 9,
-            "playerName": "asdasdad",
-            "playerScore": 0
+            "playerScore": 10
         }
     ]
 }
